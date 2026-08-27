@@ -63,13 +63,6 @@
             >;
 
             display-name = "Base";
-            sensor-bindings =
-                <&none>,
-                <&none>,
-                <&none>,
-                <&none>,
-                <&none>,
-                <&none>;
         };
 
         nav {
